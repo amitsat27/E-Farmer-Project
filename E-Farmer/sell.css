@@ -1,0 +1,309 @@
+#tagline {
+	background-color:green;
+	height:10%;
+	padding:1.125%;
+}
+
+#brand {
+	color:white;
+	width:20%;
+	height:5%;
+	font-size:312.5%;
+	margin:1% 0% 0% 1.5%;
+	display:inline-block;
+}
+
+#logo {
+	float:left;
+	height:100%;
+	margin-left:1.25%;
+}
+
+#login {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	padding:0.5% 4% 0.5% 4%;
+	text-decoration:none;
+	float:right;
+	margin:1.5%;
+	background-color:green;
+	border:2px solid white;
+	border-radius:10% / 50%;
+}
+
+#login:hover {
+	background-color:white;
+	color:black;
+	cursor: pointer;
+}
+
+#loginTag {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	text-decoration:none;
+	float:right;
+	margin:2% 0.5% 0% 0%;
+	background-color:green;
+}
+
+#navigation {
+	background-color:black;
+	padding:1% 0px 1% 0px;
+	height:2.1%;
+	border-top:2px solid white;
+	border-bottom:2px solid white;
+}
+
+#tabs {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	padding:1%;
+	text-decoration:none;
+}
+
+#tabs:hover {
+	background-color:white;
+	color:black;
+	cursor:pointer;
+}
+
+#sellprod { background-color: green; height:60px;}
+.tab_1
+{
+       color:black;
+       text-align:center;
+	background-color:green;
+	color:white;
+	font-size:125%;
+	text-decoration:none;
+	height:100%;
+	border:2px solid white;
+	width:50%;
+	float:left;      
+}
+
+
+
+#infopost { background-color:whitesmoke;height:auto%;width:100%}
+
+#postedcrops { background-color:whitesmoke;height:700px;margin:3px;width:100%}
+
+#tab
+{
+	color:white;
+	background-color: green;
+	font-size:200%;
+	display:inline-block;
+        line-height:220%;
+	height:7.5%;
+   	text-align: center;
+        vertical-align:middle;
+    	width:50%;
+	border:3px solid grey;
+	border-radius:25px;
+	
+}
+#tab4
+{
+ 	
+	color:black;
+	background-color:lightgreen;
+	font-size:20px;
+	text-decoration:none;
+	display:inline-block;
+	height:8%;
+    	line-height: 50px;	
+    	margin: 10px 30px 10px 600px;
+   	 text-align: center;
+   	 top: 5%;
+    	width:30%;
+	border:2px solid green;
+	border-radius:25px;
+        	
+	
+}
+
+#tab3
+{
+ 	color:black;
+	font-size:150%;
+	text-align:left;
+	width:30%;
+	line-height:320%;
+	
+}
+#tab5
+{
+ 	color:black;
+	background-color:lightblue;
+	font-size:20px;
+	text-decoration:none;
+	display:inline-block;
+	height:0%;
+	line-height:50px;
+	margin:850px 10px 1px 650px;
+	text-align:left;
+	top:5%;
+	width:10%;
+ 	
+	
+}
+
+
+#faq_css
+{
+ color : #000000;
+    text-align : center;
+    font-family: "SIMPSON";
+    font-size:200%; 
+}
+#faq_css2
+{
+        
+	color:black;
+	font-size:200%;
+	
+	text-decoration:none;
+	
+	
+	line-height:150%;
+	margin:50px 10px 1px 750px;
+	
+	top:5%;
+	width:10%;
+  
+}
+
+
+.column {
+  float: left;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 30%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+form
+{
+   align="center";
+}
+
+ article, aside, figure, footer, header, hgroup, 
+  menu, nav, section { display: block; }
+
+.button {
+  background-color:white;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+tr:nth-child(even) {
+  background-color: lightgrey;
+}
+table#t01 th {
+   background-color:white;
+   color:black;
+}
+
+
+
+img{
+  max-width:180px;
+}
+
+input[type=file]{
+padding:10px;
+background:#2d2d2d;}
+
+
+
+input[type=text]{
+  width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color:white;
+}
+
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+#forgot {
+	font-size:125%;
+	color:#004b00;
+	text-decoration:none;
+}
+
+.textbox {
+	width:76%;
+	margin-left:10%;
+	padding:2% 2%;
+	border:2px solid #004b00;
+	font-size:100%;
+}
+
+.radio {
+	font-size:175%;
+	color:green;
+	margin-left:14%;
+}
+
+.radio input {
+	height:20px;
+	width:20px;
+}
+
+.signbtn {
+	width:50%;
+	margin-left:25%;
+	margin-top:5%;
+	padding:2.5% 0%;
+	background-color:#004b00;
+	color:white;
+	font-size:125%;
+	border:2px solid white;
+	border-radius:10% / 50%;
+}
+
+::-webkit-scrollbar {
+  width: 0%;
+}

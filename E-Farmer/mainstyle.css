@@ -1,0 +1,133 @@
+#tagline {
+	background-color:green;
+	height:10%;
+	padding:1.125%;
+}
+
+#brand {
+	color:white;
+	width:20%;
+	height:5%;
+	font-size:312.5%;
+	margin:1% 0% 0% 1.5%;
+	display:inline-block;
+}
+
+#logo {
+	float:left;
+	height:100%;
+	margin-left:1.25%;
+}
+
+#login {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	padding:0.5% 4% 0.5% 4%;
+	text-decoration:none;
+	float:right;
+	margin:1.5%;
+	background-color:green;
+	border:2px solid white;
+	border-radius:10% / 50%;
+}
+
+#login:hover {
+	background-color:white;
+	color:black;
+	cursor: pointer;
+}
+
+#loginTag {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	text-decoration:none;
+	float:right;
+	margin:2% 0.5% 0% 0%;
+	background-color:green;
+}
+
+#navigation {
+	background-color:black;
+	padding:1% 0px 1% 0px;
+	height:2.1%;
+	border-top:2px solid white;
+	border-bottom:2px solid white;
+}
+
+#tabs {
+	color:white;
+	text-align:center;
+	font-size:125%;
+	padding:1%;
+	text-decoration:none;
+}
+
+#tabs:hover {
+	background-color:white;
+	color:black;
+	cursor:pointer;
+}
+
+.division {
+	height:79%;
+}
+
+#abouttag {
+	margin-top:5%;
+	font-size:400%;
+	color:#3399ff;
+	font-family:'Chandas';
+}
+
+#aboutdiv {
+	text-align:center; 
+	width:100%;
+	height:auto;
+}
+
+#about {
+	width:75%;
+	margin-left:12.5%;
+	font-size:150%;
+	text-align:center;
+	padding-bottom:7.5%;
+	border-bottom:3px #3399ff solid;
+}
+
+#news {
+	width:100%;
+	border-bottom:2px black solid;
+	padding:0.5%;
+}
+
+marquee {
+	height:50%; 
+	width:75%;
+	border:2px black solid;
+}
+
+#desc {
+	display:inline-block;
+	width:49%;
+}
+
+.sell {
+	background-color:rgb(0, 0, 0);
+  	background-color:rgba(0, 0, 0, 0.5);
+	height:5%;
+	width:50%;
+	color:white;
+	border:2px solid white;
+	font-size:80%;
+	margin-top:7.5%;
+	border-radius:10% / 50%;
+	text-decoration:none;
+	padding:1.5% 10%;
+}
+
+#header {
+	padding:2% 4%;
+	font-size:125%;
+}

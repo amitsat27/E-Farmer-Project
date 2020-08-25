@@ -1,0 +1,140 @@
+body {
+	background-image: url("farm.jpg");
+
+  /* Full height */
+  height:100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#tagline {
+	margin-top:2%;
+	font-size:400%;
+	color:green;
+}
+
+#container {
+	position:absolute;
+	top:20%;
+	left:37.5%;
+	height:auto;
+	width:25%;
+	overflow-y:hidden;
+	padding-bottom:2%;
+	background-color:white;
+	border:2px solid white;
+	border-radius:30px;
+	margin-bottom:5%;
+}
+
+#signreplace {
+	height:100%;
+	overflow-y:scroll;
+}
+
+.toreplace {
+	display:none;
+}
+
+.sign {
+	width:49.5%;
+	padding:2.9%;
+	overflow:hidden;
+	background-color:#004b00;
+	color:white;
+	font-size:150%;
+	border:none;
+}
+
+.sign:hover {
+	background-color:white;
+	color:#004b00;
+}
+
+.sign:focus {
+	outline:0;
+}
+	
+#photo {
+	margin-top:-2.4%;
+	margin-left:46.25%;
+	position:absolute;
+	height:12.5%;
+	width:6.25%;
+}
+
+.tags {
+	font-size:175%;
+	color:#004b00;
+}
+
+#forgot {
+	font-size:125%;
+	color:#004b00;
+	text-decoration:none;
+}
+
+.textbox {
+	width:80%;
+	margin-left:10%;
+	margin-right:10%
+	padding:2% 2%;
+	border:2px solid #004b00;
+	font-size:100%;
+}
+
+.radio {
+	font-size:175%;
+	color:green;
+	margin-left:14%;
+}
+
+.radio input {
+	height:20px;
+	width:20px;
+}
+
+.signbtn {
+	width:80%;
+	height:10%;
+	margin-left:10%;
+        margin-right:10%;
+	margin-top:5%;
+	padding:2.5% 2.5%;
+	background-color:#004b00;
+	color:white;
+	font-size:125%;
+	text-decoration:none;
+}
+
+::-webkit-scrollbar {
+  width: 0%;
+}
+
+
+
+input {
+  width: 50%;
+  margin-left:10%;
+  margin-right:10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ border: 2px solid green;
+  border-radius: 4px;
+}
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
